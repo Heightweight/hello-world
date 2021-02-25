@@ -1,4 +1,3 @@
-{-# OPTION -Wall #-}
 module Hw where
 
 abs' :: Int -> Int
